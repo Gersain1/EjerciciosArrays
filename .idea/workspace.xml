@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2d3cc12-59e6-49f9-9803-7d2314185b1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EjercicioCuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioTres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjercicioDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjercicioDos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +36,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjercicioDos">
+  <component name="RunManager" selected="Application.EjercicioCuatro">
+    <configuration name="EjercicioCuatro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioCuatro" />
+      <module name="ejerciciosArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjercicioDos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjercicioDos" />
+      <module name="ejerciciosArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioTres" />
       <module name="ejerciciosArrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,8 +67,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjercicioDos" />
+        <item itemvalue="Application.EjercicioCuatro" />
+        <item itemvalue="Application.EjercicioTres" />
         <item itemvalue="Application.EjercicioUno" />
+        <item itemvalue="Application.EjercicioDos" />
       </list>
     </recent_temporary>
   </component>
